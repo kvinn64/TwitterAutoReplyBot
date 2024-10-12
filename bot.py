@@ -4,13 +4,13 @@ import pickle
 import time, random
 
 ##########################################################################################
-CONSUMER_KEY = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"                           #
-CONSUMER_SECRET = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"                   #
-ACCESS_TOKEN = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"                      #
-ACCESS_TOKEN_SECRET = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"                    #
-HASHTAG = "#tvd"                                                                         #
-NUMBER_OF_TWEETS_TO_REPLY = 5                                                            #
-TWEETS_TYPE = "recent" #can be set to "mixed" or "popular" as well                       #
+CONSUMER_KEY = "vT79NBViS7AHUoMbGkrnd3LpM"                           #
+CONSUMER_SECRET = "qYwhr0gVZR6dDC8D6BVpko2DzgzAFES76s8Bnc72yhUY9jui0u"                   #
+ACCESS_TOKEN = "2244472284-cXNvtplvgV0Q2796yn5iJaMZABf9KsMWcVbQ9IG"                      #
+ACCESS_TOKEN_SECRET = "rljhOwrT9fYlokBPhwSNdEzNbJwZdGIGn5v38F0beDlKa"                    #
+HASHTAG = "malming"                                                                         #
+NUMBER_OF_TWEETS_TO_REPLY = 10                                                            #
+TWEETS_TYPE = "mixed" #can be set to "mixed" or "popular" as well                       #
 ##########################################################################################
 processed_tweets = []
 fetched_tweets = []
